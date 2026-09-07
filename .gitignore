@@ -1,0 +1,8 @@
+.dart_tool/
+.packages
+build/
+.pub/
+.idea/
+*.iml
+packages/*/.dart_tool/
+packages/*/*/.dart_tool/
